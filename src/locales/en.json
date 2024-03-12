@@ -6,6 +6,7 @@
     "PublicationDate": "Publication Date",
     "Views": "Views",
     "millionsUnit": "millions",
-    "millionUnit": "million"
+    "millionUnit": "million",
+    "tableHeaderClass": "thead-dark"
 
 }

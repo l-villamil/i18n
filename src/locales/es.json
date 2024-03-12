@@ -6,7 +6,8 @@
     "PublicationDate": "Fecha de publicación",
     "Views": "No. de visitas",
     "millionUnit": "millón",
-    "millionsUnit": "millones"
+    "millionsUnit": "millones",
+    "tableHeaderClass": "thead-light"
 
 
 }

@@ -36,7 +36,7 @@ const JobsList = () => {
   return (
     <div>
       <table className="table">
-        <thead className="thead-dark">
+        <thead className={<FormattedMessage id="tableHeaderClass"/>}>
           <tr>
             <th scope="col">#</th>
             <th scope="col"><FormattedMessage id="Position"/></th>
